@@ -38,7 +38,7 @@ module.exports = {
         // Any additional optional fields
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "vinci7.github.io",
+        cookieDomain: "bobobubu.netlify.com",
       },
     }
   ],
